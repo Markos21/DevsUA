@@ -1,16 +1,16 @@
 
 
 
-# fILE UPLOAD Rest API
+# File UPLOAD Rest API
 
-This project is for upload with rest API in PHP.
+This project is for upload Image with rest API in PHP.
 
 ## Setup
 
 ### Step 1 - Clone or Download
 
 ```
-git clone 
+git clone https://github.com/Markos21/DevsUA
 
 ```
 
@@ -55,9 +55,11 @@ define('DB_PREFIX', 'l_');
 
 ## Usage
 
-You can see all the files with bellow URL
+You can see all the files with bellow EndPoint
 ```
 yourdomain.com/api/all
+
+End Point for post request(Image Upload)
 yourdomain.com/api/imageupload
 ```
 
