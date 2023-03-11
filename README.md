@@ -1,7 +1,6 @@
 # DevsUA
 
 #DevsUA. Test assignment. PHP
-API FOLLOWS A MVC PATTERN STRUCTURE
-
+<p>test</p>
 #FRONTEND
 AJAX CALL FOR REQUEST
