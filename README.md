@@ -1,6 +1,6 @@
 # DevsUA
 
 #DevsUA. Test assignment. PHP
-<p>test</p>
+<p>The API is designed using MVC Pattern which Helps us to have a better controller and flexibility.</p>
 #FRONTEND
-AJAX CALL FOR REQUEST
+<p>Using AJAX for api request and page designed using bootstrap</p>
